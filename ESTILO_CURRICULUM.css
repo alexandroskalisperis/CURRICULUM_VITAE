@@ -38,14 +38,23 @@
     border-radius: 10px;
     box-shadow: rgb(53, 27, 45) 15px 15px 15px;
     padding: 8px;
-    
-    
-    
 }
 li[name="elemento1"] {
     display: inline;
     margin: 150px;
 }
+
+#titulo_diploma {
+    position: relative;
+    color: white;
+    text-align: center;
+    
+    
+   
+}
+
+
+
 
 
 
